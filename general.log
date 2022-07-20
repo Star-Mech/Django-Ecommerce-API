@@ -1,0 +1,112 @@
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+Calling HttpBin
+httpbin is offline
+Internal Server Error: /playground/hello/
+Traceback (most recent call last):
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py", line 55, in get
+    return render(request, 'hello.html', {'name': data})
+UnboundLocalError: local variable 'data' referenced before assignment
+Not Found: /favicon.ico
+D:\PycharmProjects\Mosh-Django-Ult-3\playground\views.py changed, reloading.
+Watching for file changes with StatReloader
+Calling HttpBin
+httpbin is offline
+D:\PycharmProjects\Mosh-Django-Ult-3\storefront\settings.py changed, reloading.
+2022-07-18 14:18:09,183 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-07-18 14:18:17,180 (INFO) - playground.views - Calling HttpBin
+2022-07-18 14:18:17,186 (CRITICAL) - playground.views - httpbin is offline
+2022-07-18 14:33:01,392 (INFO) - django.utils.autoreload - D:\PycharmProjects\Mosh-Django-Ult-3\manage.py changed, reloading.
+2022-07-18 14:46:46,473 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-07-18 14:46:46,695 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-07-18 14:47:47,934 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-07-18 14:47:47,954 (WARNING) - django.request - Forbidden: /store/collections/
+2022-07-18 14:47:47,964 (WARNING) - django.request - Bad Request: /store/collections/
+2022-07-18 14:49:13,754 (INFO) - django.utils.autoreload - D:\PycharmProjects\Mosh-Django-Ult-3\storefront\settings\common.py changed, reloading.
+2022-07-18 14:49:15,035 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-07-18 14:49:15,245 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-07-18 14:49:24,690 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-07-18 14:49:24,719 (WARNING) - django.request - Forbidden: /store/collections/
+2022-07-18 14:49:24,749 (WARNING) - django.request - Bad Request: /store/collections/
+2022-07-18 14:51:46,717 (INFO) - django.utils.autoreload - C:\Users\Hamad\.virtualenvs\Mosh-Django-Ult-3-dQiOAQJ5\Lib\site-packages\pkg_resources\_vendor\packaging\_musllinux.py changed, reloading.
+2022-07-18 14:51:48,272 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-07-18 14:51:48,612 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-07-18 15:01:02,233 (INFO) - waitress - Serving on http://[::1]:8000
+2022-07-18 15:01:02,233 (INFO) - waitress - Serving on http://127.0.0.1:8000
+2022-07-18 15:01:06,941 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-07-18 15:01:07,118 (WARNING) - waitress.queue - Task queue depth is 1
+2022-07-18 15:01:07,324 (WARNING) - django.request - Not Found: /favicon.ico
+2022-07-18 15:01:10,633 (WARNING) - django.request - Not Found: /baseapp
+2022-07-18 15:01:16,713 (WARNING) - waitress.queue - Task queue depth is 1
+2022-07-18 15:01:16,718 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:16,784 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:16,785 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:16,792 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:25,658 (WARNING) - waitress.queue - Task queue depth is 1
+2022-07-18 15:01:25,660 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:25,713 (WARNING) - waitress.queue - Task queue depth is 3
+2022-07-18 15:01:25,735 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:25,743 (WARNING) - waitress.queue - Task queue depth is 1
+2022-07-18 15:01:25,745 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:25,805 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:25,812 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:25,826 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-18 15:01:25,830 (WARNING) - waitress.queue - Task queue depth is 2
+2022-07-20 13:13:41,015 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-07-20 13:13:41,328 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-07-20 13:13:48,711 (WARNING) - django.request - Not Found: /favicon.ico
+2022-07-20 13:20:05,881 (WARNING) - django.request - Not Found: /baseapp
+2022-07-20 13:21:10,521 (WARNING) - django.request - Not Found: /baseapp
+2022-07-20 13:21:42,466 (WARNING) - django.request - Not Found: /baseapp
+2022-07-20 13:22:51,693 (WARNING) - django.request - Not Found: /baseapp
