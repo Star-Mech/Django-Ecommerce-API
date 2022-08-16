@@ -21,3 +21,5 @@ DATABASES = {
         'PASSWORD': 'I am 32 legend'
     }
 }
+
+MIDDLEWARE += ['silk.middleware.SilkyMiddleware',]

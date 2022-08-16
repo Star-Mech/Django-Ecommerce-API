@@ -110,3 +110,38 @@ D:\PycharmProjects\Mosh-Django-Ult-3\storefront\settings.py changed, reloading.
 2022-07-20 13:21:10,521 (WARNING) - django.request - Not Found: /baseapp
 2022-07-20 13:21:42,466 (WARNING) - django.request - Not Found: /baseapp
 2022-07-20 13:22:51,693 (WARNING) - django.request - Not Found: /baseapp
+2022-08-01 12:18:23,222 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-01 12:18:23,492 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-08-01 12:20:15,757 (INFO) - django.utils.autoreload - D:\PycharmProjects\Mosh-Django-Ult-3\storefront\settings\dev.py changed, reloading.
+2022-08-01 12:20:17,318 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-01 12:20:38,970 (WARNING) - django.request - Not Found: /favicon.ico
+2022-08-01 12:20:51,583 (WARNING) - django.request - Not Found: /products
+2022-08-01 12:24:18,841 (WARNING) - silk.model_factory - Response to request with pk 64bc3d82-bf52-428a-8021-54d836b130a9 has content type text/javascript but was unable to parse it
+2022-08-01 12:24:24,003 (WARNING) - silk.model_factory - Response to request with pk 994d1049-2e81-4ee2-995b-dd5c07c02ead has content type text/javascript but was unable to parse it
+2022-08-01 12:25:14,445 (WARNING) - silk.model_factory - Response to request with pk aeddc575-a79d-4df3-8953-15d36a37aa1a has content type text/javascript but was unable to parse it
+2022-08-06 10:13:48,719 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-16 12:43:08,344 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-16 12:43:29,968 (WARNING) - django.request - Not Found: /favicon.ico
+2022-08-16 13:01:58,347 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-08-16 13:01:58,621 (WARNING) - django.request - Forbidden: /store/collections/
+2022-08-16 13:01:58,781 (WARNING) - django.request - Bad Request: /store/collections/
+2022-08-16 13:02:06,492 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-16 13:02:27,855 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-08-16 13:02:27,913 (WARNING) - django.request - Forbidden: /store/collections/
+2022-08-16 13:02:27,963 (WARNING) - django.request - Bad Request: /store/collections/
+2022-08-16 14:20:46,531 (INFO) - waitress - Serving on http://[::]:8000
+2022-08-16 14:20:46,531 (INFO) - waitress - Serving on http://0.0.0.0:8000
+2022-08-16 14:21:00,599 (WARNING) - django.request - Not Found: /favicon.ico
+2022-08-16 14:21:15,625 (WARNING) - waitress.queue - Task queue depth is 1
+2022-08-16 14:21:15,627 (WARNING) - waitress.queue - Task queue depth is 2
+2022-08-16 14:21:15,628 (WARNING) - waitress.queue - Task queue depth is 2
+2022-08-16 14:21:15,633 (WARNING) - waitress.queue - Task queue depth is 2
+2022-08-16 14:21:15,634 (WARNING) - waitress.queue - Task queue depth is 2
+2022-08-16 14:21:15,636 (WARNING) - waitress.queue - Task queue depth is 2
+2022-08-16 14:27:36,425 (INFO) - waitress - Serving on http://[::]:8000
+2022-08-16 14:27:36,426 (INFO) - waitress - Serving on http://0.0.0.0:8000
+2022-08-16 14:28:00,884 (WARNING) - waitress.queue - Task queue depth is 1
+2022-08-16 14:28:00,887 (WARNING) - waitress.queue - Task queue depth is 2
+2022-08-16 14:28:00,899 (WARNING) - waitress.queue - Task queue depth is 2
+2022-08-16 14:28:00,902 (WARNING) - waitress.queue - Task queue depth is 1
+2022-08-16 14:28:00,904 (WARNING) - waitress.queue - Task queue depth is 1
